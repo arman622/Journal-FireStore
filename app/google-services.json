@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246064699462",
+    "project_id": "journal-firestore-a7410",
+    "storage_bucket": "journal-firestore-a7410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246064699462:android:1a327265768d93670d5247",
+        "android_client_info": {
+          "package_name": "com.example.journalfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246064699462-riadbb8vloj3e318aqlt0chpecflou88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30J9_Nxk1U_1unmHSQe_DxfeeD3-By6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246064699462-riadbb8vloj3e318aqlt0chpecflou88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

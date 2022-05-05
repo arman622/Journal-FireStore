@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Journal(Firestore)</string>
+    <string name="self_gratitude_journal">Self. Gratitude. Journal</string>
+    <string name="what_are_you_grateful_for">What are you grateful for today?</string>
+    <string name="get_started">Get started</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="create_account">Create Account</string>
+    <string name="save_journal">Save Journal</string>
+    <string name="your_thoughts">Your Thoughts...</string>
+    <string name="title">Title</string>
+    <string name="today">Today</string>
+    <string name="gina">Gina</string>
+    <string name="todo">TODO</string>
+    <string name="sample_thought">Today is the most beautiful day of all times. I am so happy that I have wonderful students.</string>
+    <string name="sample_timestamp">0 minutes ago</string>
+    <string name="sample_title">I am grateful for everything</string>
+    <string name="sample_username">Arman</string>
+    <string name="menu_title">Add Thought</string>
+    <string name="menu_signout">Signout</string>
+    <string name="no_thought_hint">Write a Journal Entry by clicking the \"+\" icon above.</string>
+</resources>
