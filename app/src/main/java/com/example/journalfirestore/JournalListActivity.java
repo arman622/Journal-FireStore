@@ -72,13 +72,6 @@ public class JournalListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_journal_list);
 
-        //Assignment Ex:
-        //int x
-        //x = 7
-        //or
-        //String myName = "Emi"
-        //myName = "John"
-
         journalList = new ArrayList<>();
         Objects.requireNonNull(getSupportActionBar()).setElevation(0);
 

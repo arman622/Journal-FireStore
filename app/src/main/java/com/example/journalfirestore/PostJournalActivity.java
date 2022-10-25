@@ -141,6 +141,7 @@ public class PostJournalActivity extends AppCompatActivity implements View.OnCli
                 Intent gallaryIntent = new Intent(Intent.ACTION_GET_CONTENT);
                 gallaryIntent.setType("image/*");
                 startActivityForResult(gallaryIntent, GALLARY_CODE);
+//                addPhotoBtn.setVisibility(View.INVISIBLE);
                 break;
             case R.id.post_save_btn:
                 //save journal data to firestore database
