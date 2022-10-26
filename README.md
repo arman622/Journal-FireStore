@@ -7,7 +7,8 @@ Register Page <br />
 
 
 Login Page
-<p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/login.gif" /></p>
+![github](https://github.com/arman622/Journal-FireStore/blob/master/login.gif)
+
 
 
 Posting a journal
