@@ -2,8 +2,8 @@
 
 Demo of the Journal App
 
-##Register Page 
+## Register Page 
 
 
 
-###Login Page
+### Login Page
