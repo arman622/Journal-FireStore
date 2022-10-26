@@ -3,10 +3,13 @@
 Demo of the Journal App
 
 ## Register Page 
+<img src="https://github.com/arman622/Journal-FireStore/blob/master/register.gif" />
 
-asdasdas
-asdasdas
-asdasdas
-asdasdas
+## Login Page
+<img src="https://github.com/arman622/Journal-FireStore/blob/master/login.gif" />
 
-### Login Page
+## Posting Page
+<img src="https://github.com/arman622/Journal-FireStore/blob/master/posting.gif" />
+
+## Feed Page
+<img src="https://github.com/arman622/Journal-FireStore/blob/master/feed.gif" />
