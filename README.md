@@ -3,4 +3,13 @@
 Demo of the Journal App
 
 Register Page
-https://github.com/arman622/Journal-FireStore/blob/master/register.gif
+<p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/register.gif" /></p>
+
+Login Page
+<p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/login.gif" /></p>
+
+Posting a journal
+<p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/posting.gif" /></p>
+
+Looking through your feed journal
+<p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/feed.gif" /></p>
