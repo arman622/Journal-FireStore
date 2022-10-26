@@ -6,4 +6,4 @@ Register Page <br />
 <p><img align="left" alt="gif" src="https://github.com/arman622/Journal-FireStore/blob/master/register.gif" /></p>
 
 
-Login Page
+###Login Page
